@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaContact28", "ProvaContact28\ProvaContact28.csproj", "{0D2A6B94-A3AE-42AB-A25F-797BE018A9E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D2A6B94-A3AE-42AB-A25F-797BE018A9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2A6B94-A3AE-42AB-A25F-797BE018A9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2A6B94-A3AE-42AB-A25F-797BE018A9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2A6B94-A3AE-42AB-A25F-797BE018A9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74E2C44D-8FE6-4A03-A084-BBACF1F1BDBD}
+	EndGlobalSection
+EndGlobal
